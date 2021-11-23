@@ -1,0 +1,51 @@
+body{
+			background-color: #93A3CA;
+			color: white;
+		}
+		table{
+			border-radius: 20px;
+			border: 5px gray solid;
+			font-size: 200%;
+			background-color: #606F93;
+			color: white;
+		}
+		td{
+			border: 0px;
+		}
+		tr{
+			border: 0px;
+		}
+		th{
+			border: 0px;
+		}
+		input{
+			border-radius: 8px;
+			font-size: 60%;
+			padding: 10px;
+		}
+		.buttons{
+			border-radius: 8px;
+			font-size: 60%;
+			padding: 3px;
+			margin-top: -40px;
+			border: 2px gray solid;
+		}
+		.buttons2{
+			border-radius: 8px;
+			font-size: 120%;
+			padding: 10px;
+			margin-top: -40px;
+			border: 2px gray solid;
+		}
+		.navbut{
+			border-radius: 8px;
+			font-size: 180%;
+			padding: 10px;
+			margin-top: -40px;
+			border: 2px gray solid;
+		}
+		canvas{
+			border-radius: 10px;
+			border: 5px gray solid;
+			height: 60%;
+		}
